@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\chest\chest"
+	"$bumpMap" "models\chest\chest_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1 
+	"$phong" "1"
+	"$phongexponent" "40"
+	"$phongboost" "15"	
+	"$phongfresnelranges"	"[.4 .7 2]"
+//	"$halflambert" "1"
+//	"$phongexponenttexture" "models/$phong/$phong_sheet"
+	"$phongalbedotint" "1"	
+}

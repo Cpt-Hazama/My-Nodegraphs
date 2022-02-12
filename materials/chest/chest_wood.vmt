@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\chest\chest_wood"
+	"$surfaceprop" "wood"
+	"$bumpMap" "models\chest\chestwood_normal"
+}

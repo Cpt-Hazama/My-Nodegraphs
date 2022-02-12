@@ -1,0 +1,12 @@
+"Maps"
+{
+	"Odhinn's maps"
+	{
+		"gm_icyworld"
+		{
+			"Credits"	"Odhinn"
+			"Material"	"maps/gm_icyworld"	
+		}
+	}
+	
+}
